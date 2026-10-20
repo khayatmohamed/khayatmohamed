@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="assets/coding.gif" width="400" alt="Coding Animation" />
+</div>
+  
 # 👋 Hi, I'm Mohamed Khayat!
 
 ### 💻 C++ Developer in Progress | Algorithms & Problem Solving
