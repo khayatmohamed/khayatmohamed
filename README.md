@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="assets/coding.gif" width="400" alt="Coding Animation" />
+  <img src="assets/codingOne.gif" width="400" alt="Coding Animation" />
 </div>
   
 # 👋 Hi, I'm Mohamed Khayat!
