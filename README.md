@@ -2,7 +2,7 @@
 <div align="center">
   <img src="assets/codingOne.gif" width="400" alt="Coding Animation" />
 </div>
-  
+
 # 👋 Hi, I'm Mohamed Khayat!
 
 ### 💻 C++ Developer in Progress | Algorithms & Problem Solving
@@ -50,15 +50,39 @@ A collection of 50 C++ programming exercises organized into 10 problem sets.
 
 ## 📊 GitHub Statistics
 
+<div align="center">
+
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khayatmohamed&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khayatmohamed&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
 ## 📬 Connect With Me
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khayatmohamed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-khayat/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khayat.mohamed.km@gmail.com)
+
+</div>
+
+📧 **Email:** khayat.mohamed.km@gmail.com
+
+💼 **LinkedIn:** [linkedin.com/in/mohamed-khayat](https://www.linkedin.com/in/mohamed-khayat/)
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
@@ -66,4 +90,8 @@ A collection of 50 C++ programming exercises organized into 10 problem sets.
 
 > Practice every day. Solve problems. Build skills. Never stop learning.
 
+<div align="center">
+
 ⭐ **Always learning, always improving!**
+
+</div>
