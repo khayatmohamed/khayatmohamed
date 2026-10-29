@@ -53,9 +53,9 @@ A collection of 50 C++ programming exercises organized into 10 problem sets.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=khayatmohamed&show_icons=true&theme=tokyonight)
+![Mohamed's GitHub Stats](https://github-stats-extended.vercel.app/api?username=khayatmohamed&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=khayatmohamed&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=khayatmohamed&layout=compact&theme=tokyonight)
 
 </div>
 
